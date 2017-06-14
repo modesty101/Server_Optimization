@@ -1,0 +1,6 @@
+c:\users\genius\documents\visual studio 2017\Projects\Server2008_Reg\Server2008_Reg\bin\Release\Server2008_Reg.exe.config
+c:\users\genius\documents\visual studio 2017\Projects\Server2008_Reg\Server2008_Reg\bin\Release\Server2008_Reg.exe
+c:\users\genius\documents\visual studio 2017\Projects\Server2008_Reg\Server2008_Reg\bin\Release\Server2008_Reg.pdb
+c:\users\genius\documents\visual studio 2017\Projects\Server2008_Reg\Server2008_Reg\obj\Release\Server2008_Reg.exe
+c:\users\genius\documents\visual studio 2017\Projects\Server2008_Reg\Server2008_Reg\obj\Release\Server2008_Reg.pdb
+c:\users\genius\documents\visual studio 2017\Projects\Server2008_Reg\Server2008_Reg\obj\Release\Server2008_Reg.csprojResolveAssemblyReference.cache
